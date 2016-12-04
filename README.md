@@ -1,0 +1,2 @@
+# scrollscreenshot
+bitmap compare arithmetic
